@@ -6,7 +6,11 @@
 - Mailid: ty99095@umbc.edu
 - Mobile: (+1)4752679754
 
-# Career Objective
+# Career Objective & Goal
+
+ - Reliable Student with skills in leadership and commitment. Expert at leading and coordinating with others on  projects throughout history of academic excellence. Dedicated to working until projects are completed and meeting highest standards.
+ - I want to see myself at a good place in an organization where I can give my efforts for the growth of the organization.
+ 
 # Educational Qualifications
 
  - Bachelor's Degree from JNTU-H 
