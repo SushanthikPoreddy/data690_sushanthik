@@ -2,6 +2,7 @@
 # Who am I?
 
 - Name: Sushanthik Reddy Poreddy
+    - Pursuing master's degree at **University of Maryland Baltimore County** in **Data Science**
 - Mailid: ty99095@umbc.edu
 - Mobile: (+1)4752679754
 
