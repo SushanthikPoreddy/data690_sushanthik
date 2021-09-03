@@ -1,4 +1,7 @@
-![hi](img.jpg)
+<p align="center">
+  <img src="img.jpg" alt="Sublime's custom image"/>
+</p>
+
 # Who am I?
 
 - Name: Sushanthik Reddy Poreddy
