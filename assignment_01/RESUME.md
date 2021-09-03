@@ -46,6 +46,12 @@
   - Programming languages: C,HTML, CSS, Basic Python
   - Database: DBMS,MYSQL
   - Tools: SQL Developer, Turbo C, Eclipse IDE, IDE Python
+
+# Languages 
+
+ - Telugu
+ - English
+ - Hindi
   
 # Acheivements
  
