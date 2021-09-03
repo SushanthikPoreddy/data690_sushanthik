@@ -57,7 +57,11 @@
  
   - I was awarded with 2nd price at state level badminton torunment.
   - I got selected as vice-captain for a house in my school.
-  - i worked as treasurer for my college photography club.
+  - I worked as treasurer for my college photography club.
+
+# Social Activitiy
+
+ - participated in the events that mainly concentrates on protecting and planting seeds of trees. 
  
 # Hobbies & Interests
 
