@@ -1,4 +1,4 @@
-![hi](IMG-min.jpg)
+![hi](img.jpg)
 # Who am I?
 
 - Name: Sushanthik Reddy Poreddy
