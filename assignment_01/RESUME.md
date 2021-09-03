@@ -1,4 +1,4 @@
-![hi](C:/Users/Avinash/Desktop/IMG.jpg)
+![hi](IMG-min.jpg)
 # Who am I?
 
 - Name: Sushanthik Reddy Poreddy
