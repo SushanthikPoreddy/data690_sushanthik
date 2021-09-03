@@ -1,7 +1,4 @@
-<p align="center">
-  <img src="img.jpg" alt="Sublime's custom image"/>
-</p>
-
+![](name of the image file)
 # Who am I?
 
 - Name: Sushanthik Reddy Poreddy
