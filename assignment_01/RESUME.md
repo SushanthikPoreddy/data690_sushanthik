@@ -1,4 +1,4 @@
-![](img.jpg)
+![](img1.jpg)
 # Who am I?
 
 - Name: Sushanthik Reddy Poreddy
