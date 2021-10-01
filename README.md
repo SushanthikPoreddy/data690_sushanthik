@@ -6,6 +6,8 @@
  
  2.Next write assignment.
  
+ 3.Then submit the assignment.
+ 
 
 
 This is for **UMBC DATA 690 FALL 2021** with *Dr. Wang*
