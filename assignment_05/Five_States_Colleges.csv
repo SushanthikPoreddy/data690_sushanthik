@@ -1,36 +1,36 @@
-UNITID	INSTNM	CITY	STABBR	ZIP	ADM_RATE	UGDS	TUITIONFEE_IN	MN_EARN_WNE_P10
-1447	161688	Allegany College of Maryland	Cumberland	MD	21502-2596		1990.0	3940.0	
-1457	162122	College of Southern Maryland	La Plata	MD	20646-0910		6699.0	3690.0	
-1472	162830	Aveda Institute-Maryland	Bel Air	MD	21014-3639		37.0		
-1475	163046	Loyola University Maryland	Baltimore	MD	21210-2699	0.7528	3903.0	47560.0	
-1476	163204	University of Maryland Global Campus	Adelphi	MD	20783-8010		42289.0	7296.0	
-1477	163259	University of Maryland Baltimore	Baltimore	MD	21201-1627		918.0		
-1478	163268	University of Maryland-Baltimore County	Baltimore	MD	21250	0.6021	11130.0	11518.0	
-1479	163286	University of Maryland-College Park	College Park	MD	20742	0.445	29273.0	10399.0	
-1480	163295	Maryland Institute College of Art	Baltimore	MD	21217-4134	0.6161	1743.0	46990.0	
-1481	163338	University of Maryland Eastern Shore	Princess Anne	MD	21853-1299	0.3901	2799.0	8042.0	
-1489	163578	Notre Dame of Maryland University	Baltimore	MD	21210-2476	0.7140000000000001	808.0	36070.0	
-1493	163815	Maryland Beauty Academy of Essex	Baltimore	MD	21224		80.0		
-1495	163912	St. Mary's College of Maryland	St. Mary's City	MD	20686	0.8242	1519.0	14496.0	
-1499	164085	Maryland University of Integrative Health	Laurel	MD	20723				
-4677	430184	Strayer University-Maryland	Suitland	MD	20746		2286.0	13857.0	
-4770	434973	University of Phoenix-Maryland	Columbia	MD	21045-5423		29.0		
-4348	384412	University of the Potomac-Washington DC Campus	Washington	DC	20005		65.0	13884.0	
-5328	450483	University of Phoenix-Washington DC	Washington	DC	20001-1431		70.0	9960.0	
-5739	459745	The Chicago School of Professional Psychology at Washington DC	Washington	DC	20005				
-6717	12697901	Denver Seminary - Washington DC	Landover	MD	207852414				
-636	130907	Delaware Technical Community College-Terry	Dover	DE	19901		12408.0	4848.0	
-637	130934	Delaware State University	Dover	DE	19901	0.4518	3678.0	7868.0	
-638	130943	University of Delaware	Newark	DE	19716	0.6289	18948.0	13160.0	
-2980	211927	Delaware County Community College	Media	PA	19063-1094		11030.0	5291.0	
-2981	211981	Delaware Valley University	Doylestown	PA	18901-2697	0.664	1908.0	38000.0	
-4542	418010	Broome Delaware Tioga BOCES-Practical Nursing Program	Binghamton	NY	13905	0.5714	66.0		
-4695	430971	Delaware County Technical School-Practical Nursing Program	Broomall	PA	19008	1.0	43.0		
-4729	432524	Delaware College of Art and Design	Wilmington	DE	19801-3007	0.79	143.0	25710.0	
-5275	449472	Delaware Learning Institute of Cosmetology	Dagsboro	DE	19939		39.0		
-5322	450298	Strayer University-Delaware	Newark	DE	19713		267.0	13857.0	
-5718	459301	Paul Mitchell the School-Delaware	Newark	DE	19702		103.0		
-6725	13090701	Delaware Technical Community College-Owens	Georgetown	DE	19947			4848.0	
-6726	13090702	Delaware Technical Community College-Stanton/Wilmington	Wilmington	DE	19801			4848.0	
-7020	44378401	Strayer University-Delaware County Campus	Springfield	PA	19064			13857.0	
-7084	47503303	Relay Graduate School of Education - Delaware	Wilmington	DE	19801			
+	UNITID	INSTNM	CITY	STABBR	ZIP	ADM_RATE	UGDS	TUITIONFEE_IN	MN_EARN_WNE_P10
+1447	161688	Allegany College of Maryland	Cumberland	MD	21502-2596	NaN	1990.0	3940.0	NaN
+1457	162122	College of Southern Maryland	La Plata	MD	20646-0910	NaN	6699.0	3690.0	NaN
+1472	162830	Aveda Institute-Maryland	Bel Air	MD	21014-3639	NaN	37.0	NaN	NaN
+1475	163046	Loyola University Maryland	Baltimore	MD	21210-2699	0.7528	3903.0	47560.0	NaN
+1476	163204	University of Maryland Global Campus	Adelphi	MD	20783-8010	NaN	42289.0	7296.0	NaN
+1477	163259	University of Maryland Baltimore	Baltimore	MD	21201-1627	NaN	918.0	NaN	NaN
+1478	163268	University of Maryland-Baltimore County	Baltimore	MD	21250	0.6021	11130.0	11518.0	NaN
+1479	163286	University of Maryland-College Park	College Park	MD	20742	0.445	29273.0	10399.0	NaN
+1480	163295	Maryland Institute College of Art	Baltimore	MD	21217-4134	0.6161	1743.0	46990.0	NaN
+1481	163338	University of Maryland Eastern Shore	Princess Anne	MD	21853-1299	0.3901	2799.0	8042.0	NaN
+1489	163578	Notre Dame of Maryland University	Baltimore	MD	21210-2476	0.7140000000000001	808.0	36070.0	NaN
+1493	163815	Maryland Beauty Academy of Essex	Baltimore	MD	21224	NaN	80.0	NaN	NaN
+1495	163912	St. Mary's College of Maryland	St. Mary's City	MD	20686	0.8242	1519.0	14496.0	NaN
+1499	164085	Maryland University of Integrative Health	Laurel	MD	20723	NaN	NaN	NaN	NaN
+4677	430184	Strayer University-Maryland	Suitland	MD	20746	NaN	2286.0	13857.0	NaN
+4770	434973	University of Phoenix-Maryland	Columbia	MD	21045-5423	NaN	29.0	NaN	NaN
+4348	384412	University of the Potomac-Washington DC Campus	Washington	DC	20005	NaN	65.0	13884.0	NaN
+5328	450483	University of Phoenix-Washington DC	Washington	DC	20001-1431	NaN	70.0	9960.0	NaN
+5739	459745	The Chicago School of Professional Psychology at Washington DC	Washington	DC	20005	NaN	NaN	NaN	NaN
+6717	12697901	Denver Seminary - Washington DC	Landover	MD	207852414	NaN	NaN	NaN	NaN
+636	130907	Delaware Technical Community College-Terry	Dover	DE	19901	NaN	12408.0	4848.0	NaN
+637	130934	Delaware State University	Dover	DE	19901	0.4518	3678.0	7868.0	NaN
+638	130943	University of Delaware	Newark	DE	19716	0.6289	18948.0	13160.0	NaN
+2980	211927	Delaware County Community College	Media	PA	19063-1094	NaN	11030.0	5291.0	NaN
+2981	211981	Delaware Valley University	Doylestown	PA	18901-2697	0.664	1908.0	38000.0	NaN
+4542	418010	Broome Delaware Tioga BOCES-Practical Nursing Program	Binghamton	NY	13905	0.5714	66.0	NaN	NaN
+4695	430971	Delaware County Technical School-Practical Nursing Program	Broomall	PA	19008	1.0	43.0	NaN	NaN
+4729	432524	Delaware College of Art and Design	Wilmington	DE	19801-3007	0.79	143.0	25710.0	NaN
+5275	449472	Delaware Learning Institute of Cosmetology	Dagsboro	DE	19939	NaN	39.0	NaN	NaN
+5322	450298	Strayer University-Delaware	Newark	DE	19713	NaN	267.0	13857.0	NaN
+5718	459301	Paul Mitchell the School-Delaware	Newark	DE	19702	NaN	103.0	NaN	NaN
+6725	13090701	Delaware Technical Community College-Owens	Georgetown	DE	19947	NaN	NaN	4848.0	NaN
+6726	13090702	Delaware Technical Community College-Stanton/Wilmington	Wilmington	DE	19801	NaN	NaN	4848.0	NaN
+7020	44378401	Strayer University-Delaware County Campus	Springfield	PA	19064	NaN	NaN	13857.0	NaN
+7084	47503303	Relay Graduate School of Education - Delaware	Wilmington	DE	19801	NaN	NaN	NaN	NaN
