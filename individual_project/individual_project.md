@@ -24,3 +24,10 @@ In this document we see detailed explanation regarding how these changes have be
 ## How does GDP per capita and Mortality rate due to unsafe conditions relate?
 ###  GDP per capita by year in different countries:
 ![](GDP_percapita_Timeseries_graph.png)
+From the above time series graph the observations are as follows:
+- GDP per capita of Bangladesh is almost consistent from the year 2015 to 2020 when compared to other countries.
+- Almost the same trend has been seen for India and China to. They maintained the same consistency over the period of time.
+- But the scenario was different in case of USA, Spain and United Kingdom. 
+- We see an increment in their GDP during there initial years but over the coming years there respective GDP followed downward trend. This may be due to drastic change in the economy or reducing the sources that can generate the economy.
+### Mortality rate due to unsafe water, unsafe sanitation, and lack of hygiene in different countries:
+Mortality rate is nothing but the measure of the frequency of occurrence of death in a defined population during a specified interval. It is a mathematical representation which is used to measure the illness or death of the people.
