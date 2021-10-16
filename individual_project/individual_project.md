@@ -31,11 +31,20 @@ From the above time series graph the observations are as follows:
 - We see an increment in their GDP during there initial years but over the coming years there respective GDP followed downward trend. This may be due to drastic change in the economy or reducing the sources that can generate the economy.
 ### Mortality rate due to unsafe water, unsafe sanitation, and lack of hygiene in different countries:
 Mortality rate is nothing but the measure of the frequency of occurrence of death in a defined population during a specified interval. It is a mathematical representation which is used to measure the illness or death of the people.
-![](Mortality rate unsafe water Bar graph.png)
+![](Mortality_rate_unsafe_water_Bar_graph.png)
 The following information can be depicted from the above time series graph:
 - India has the highest mortality rate in the year 2016 when compared to other countries with 18.6.
 - China, United States and Spain has less mortality rate with 0.2 
 These deaths or illness are due to the exploitations that humans are creating in the name of development. For example, if an industry is constructed with in the city, then it affects severely the people living in its surroundings. 
 
 Also, the wastage from such organizations should be monitored and that wastage must be diverted to preestablished places rather than diverting them to open water. In the above graph we see few deaths occurred because of unsafe water, this is majorly due to the pollution that the industries create. This is just one example; we see many cases that are happening around us on frequent basis. 
-
+## How does mortality rate relate with total population and number of deaths that are caused by the communicable diseases?
+![](cause_of_death_by_nutrition_Timeseries_graph.png)
+![](Total_population_Piechart.png)
+The above observations of mortality rate and total population are as follows:
+- China has the highest number of population but when we see the deaths that are caused due to communicable diseases and maternal, prenatal and nutrition conditions it has very less numbers. This has proven that though the country has the largest numbers in terms of population, it can still be healthy by following proper nutrition.
+- But in case of India, we see quite interesting numbers. India has the second highest population and initially in the year 2015 it even has highest number of deaths. On a good note, these numbers got reduced to an extent by the year and till date from 2015 those numbers are still decreasing.
+- It all depends on the country’s GDP because these deaths can be reduced by practicing the nutrition diet. This requires some budget to be allocated and that’s the reason we see a smaller number of communicable deaths in the developed nations and a greater number of cases in less developed nations.
+- For example, in this case we see Bangladesh though it has population that other countries we see greater number of deaths and its number for the GDP is almost very less. 
+## Conclusion:
+These observations are made on the data that has been compared among the few countries. GDP acts as the key for the country to decide whether it is developed, under developing or less developed stage. Nations must make efforts to increase their GDP so that they can see progress in every aspect. We can even consider more countries and try to see how this factor called GDP is playing a key role on a larger area.
