@@ -31,7 +31,9 @@ From the above time series graph the observations are as follows:
 - We see an increment in their GDP during there initial years but over the coming years there respective GDP followed downward trend. This may be due to drastic change in the economy or reducing the sources that can generate the economy.
 ### Mortality rate due to unsafe water, unsafe sanitation, and lack of hygiene in different countries:
 Mortality rate is nothing but the measure of the frequency of occurrence of death in a defined population during a specified interval. It is a mathematical representation which is used to measure the illness or death of the people.
+
 ![](Mortality_rate_unsafe_water_Bar_graph.png)
+
 The following information can be depicted from the above time series graph:
 - India has the highest mortality rate in the year 2016 when compared to other countries with 18.6.
 - China, United States and Spain has less mortality rate with 0.2 
