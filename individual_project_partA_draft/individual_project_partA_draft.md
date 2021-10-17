@@ -1,4 +1,5 @@
 # Does change in environment have impact on health and economy?
+*Name*: Sushanthik Reddy
 ## Topics Included:
 - Economy and Growth
 - Health
@@ -16,7 +17,7 @@
 - Spain
 - Bangladesh
 ## Time period included:
-By the guidance of Prof. Wang, the period of over 8 years starting from the year 2015 to the ending of the year 2020 has been selected. 
+By the guidance of Prof. Wang, the period of over 6 years starting from the year 2015 to the ending of the year 2020 has been selected. 
 ## Introduction:
 In present world, we see a rapid growth in the technology. In accordance to that technology we also see drastic changes that are being happen in our environment. These changes may be due to modernization or giving more concern regarding the development rather than concentrating on the environment.
 
