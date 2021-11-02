@@ -1,0 +1,1 @@
+- This directory contains the files related to both Project part A and B
